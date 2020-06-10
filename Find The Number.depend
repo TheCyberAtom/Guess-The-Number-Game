@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591725399 source:e:\projects\code blocks\find the number\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
