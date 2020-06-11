@@ -1,5 +1,5 @@
 # Guess The Number - Game
-It is a simple C++ Game designed and developed by TheCyberAtom.
+It is a simple C++ Game designed and developed by Rahul Kumar Mishra.
 # Run
 Run main.cpp for C++ version.                                           
 Run main.py for Python version.(Compatible with IPython Console)
