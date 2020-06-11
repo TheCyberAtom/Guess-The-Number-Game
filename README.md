@@ -1,5 +1,8 @@
 # Guess The Number - Game
 It is a simple C++ Game designed and developed by me.
+# Run
+Run main.cpp for C++ version.                                           
+Run main.py for Python version.(Compatible with IPython Console)
 
 ## Game Contains 4 Difficulty Level.
 1.Easy    : 8 life\
